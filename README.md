@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-![美团.gif](https://upload-images.jianshu.io/upload_images/3174701-7ec9814f9aca08d9.gif?imageMogr2/auto-orient/strip)
+![美团.gif](http://p4ygml8h5.bkt.clouddn.com/img.gif)
 
 
 ## Build Setup
