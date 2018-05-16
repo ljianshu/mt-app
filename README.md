@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-![美团.gif](http://p4ygml8h5.bkt.clouddn.com/img.gif)
+![美团.gif](http://p4ygml8h5.bkt.clouddn.com/pic.gif)
 
 
 ## Build Setup
