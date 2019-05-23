@@ -1,6 +1,6 @@
 # mt-vue
 ## 项目动态图
-> 注意：如果gif动态图看不了或者不完整，麻烦大家点击项目中mt-app/src/assets/美团.gif便可以观看！
+> 注意：如果gif动态图失效，麻烦大家点击项目中mt-app/src/assets/美团.gif便可以观看！
 
 ![美团.gif](http://p4ygml8h5.bkt.clouddn.com/pic.gif)
 
